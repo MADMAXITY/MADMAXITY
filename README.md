@@ -62,7 +62,7 @@
 >
 > Runs live at **Ministry of Esports** (Pune's flagship gaming café) and four other top cafés. One platform, three surfaces synced in real time — **PC kiosk + Admin dashboard + Gamer mobile app**. Session billing by the second, dynamic pricing, tournament brackets, cafeteria POS, digital wallet.
 >
-> `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `WebSockets` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Razorpay`
+> `Next.js` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `React Native` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `Cashfree`
 
 <br />
 
@@ -72,7 +72,7 @@
 >
 > Own the entire tech stack of a profitable authorized partner for **AMD, ASUS, Intel, NVIDIA, MSI, Corsair, Lian Li, and Razer**. Claude agents manage the storefront through natural-language instructions. Custom **6-rule PC Builder** compatibility engine. Pan-India delivery with HDFC financing up to ₹5L.
 >
-> `Next.js` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `Stripe` &nbsp;·&nbsp; `Zoho Books` &nbsp;·&nbsp; `Supabase`
+> `Next.js` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `OpenRouter` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Razorpay` &nbsp;·&nbsp; `Zoho Books`
 
 <br />
 
@@ -82,7 +82,7 @@
 >
 > Turned invoice processing from **hours of typing into minutes of review** for 5 SMB vendors in Pune. Email auto-ingestion → OCR + LLM extraction with confidence scoring → human-in-the-loop review queue → auto-sync to Zoho Books. Bank-statement parsing closes the loop on reconciliation.
 >
-> `Python` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `Gemini` &nbsp;·&nbsp; `OCR` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `Zoho Books API`
+> `Next.js` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `OpenRouter` &nbsp;·&nbsp; `Gemini` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `Gmail API` &nbsp;·&nbsp; `Zoho Books`
 
 <br />
 
@@ -92,7 +92,7 @@
 >
 > Targets the gap between hospitals too small for enterprise HMS and too complex for spreadsheets — **30–200 bed district hospitals**. 36 interconnected modules from OPD to MIS, built to **NABH / ABDM (ABHA ID)** specs, operator-first UX for non-technical staff.
 >
-> `Next.js` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `RBAC` &nbsp;·&nbsp; `PDF generation`
+> `React` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `PostgreSQL`
 
 <br />
 
